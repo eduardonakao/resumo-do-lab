@@ -16,3 +16,8 @@ Previsibilidade e segurança.
 
 Governança, podemos estabelecer regras e criar regras prontas para atender padroes de mercado ou até mesmo dentro da empresa.
 Gerenciabilidade, facilitar o gerenciamento para nossos usuários, gerenciar os recursos da Nuvem, implantar recursos já pré-configurados, não necessitando fazer manual.
+
+LAB 
+
+SLA quanto mais noves tiver menor sera o tempo de indisponibilidade
+
