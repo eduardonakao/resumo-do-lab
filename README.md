@@ -21,3 +21,17 @@ LAB
 
 SLA quanto mais noves tiver menor sera o tempo de indisponibilidade
 
+- Tipos de serviços de Nuvem
+IaaS, PaaS e SaaS
+
+LAB
+
+IaaS (Infrastructure as a Service):
+Provedor: Gerencia a infraestrutura física e virtual.
+Cliente: Gerencia o sistema operacional, aplicativos, dados e configurações de segurança.
+PaaS (Platform as a Service):
+Provedor: Gerencia a infraestrutura e a plataforma.
+Cliente: Foca no desenvolvimento e gerenciamento dos aplicativos e dados.
+SaaS (Software as a Service):
+Provedor: Gerencia tudo, desde a infraestrutura até o software.
+Cliente: Gerencia apenas os dados e o acesso ao software.
