@@ -249,3 +249,34 @@ O **Acesso Condicional** no Microsoft Entra ID (anteriormente Azure AD) é uma f
 - **Trabalho Remoto**: Exigir MFA para acessos fora do escritório.
 - **Acesso Sensível**: Bloquear acesso a dados sensíveis de dispositivos não gerenciados.
 
+
+### **Gerenciamento de Custos no Azure**
+
+- **O que é**: O gerenciamento de custos no Azure envolve monitorar, analisar e otimizar os gastos com os serviços de nuvem.
+- **Ferramentas**: 
+  - **Azure Cost Management and Billing**: Permite definir orçamentos, monitorar gastos e identificar oportunidades de economia⁶.
+  - **Calculadora de Preços do Azure**: Ajuda a estimar os custos dos serviços antes de usá-los¹⁶.
+
+### **Fatores que Afetam os Custos no Azure**
+
+- **Região**: O custo dos serviços pode variar dependendo da região onde são implantados devido a diferenças de demanda e infraestrutura¹⁸.
+- **Tipo de Serviço**: Diferentes serviços e níveis de desempenho têm custos variados.
+- **Uso de Recursos**: A quantidade de recursos consumidos, como CPU, memória e armazenamento, afeta diretamente os custos¹⁹.
+- **Licenciamento e Suporte**: Opções de licenciamento e níveis de suporte escolhidos também influenciam os custos.
+
+### **Azure Marketplace**
+
+- **O que é**: Uma plataforma onde você pode encontrar, testar, comprar e implantar milhares de aplicativos e serviços otimizados para o Azure².
+- **Benefícios**: Acelera o desenvolvimento, economiza tempo e dinheiro, e permite inovar mais rapidamente com soluções pré-construídas³.
+
+### **Calculadora Total de Custo no Azure (TCO)**
+
+- **O que é**: A Calculadora de Custo Total de Propriedade (TCO) do Azure ajuda a calcular as economias potenciais ao migrar cargas de trabalho para o Azure¹³.
+- **Uso**: Permite comparar os custos de infraestrutura local com os custos na nuvem, ajudando a tomar decisões informadas sobre migração¹⁴.
+
+### **Marcas (Tags) no Azure**
+
+- **O que são**: Tags são rótulos que você pode aplicar a recursos do Azure para organizar e gerenciar melhor esses recursos[^10^].
+- **Uso**: Facilita a categorização e a visualização dos custos associados a diferentes projetos, departamentos ou ambientes¹¹.
+- **Benefícios**: Melhora a governança e a gestão financeira ao permitir a aplicação de políticas e a geração de relatórios detalhados¹².
+
