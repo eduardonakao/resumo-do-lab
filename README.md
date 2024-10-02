@@ -311,3 +311,40 @@ O **Acesso Condicional** no Microsoft Entra ID (anteriormente Azure AD) é uma f
   - **CLI e PowerShell**: Também é possível gerenciar bloqueios usando comandos do Azure CLI ou PowerShell¹⁹.
 - **Benefícios**: Protege recursos críticos contra alterações não intencionais, garantindo a integridade e a disponibilidade dos serviços¹².
 
+
+### **Portal do Azure**
+
+- **O que é**: Uma interface gráfica baseada na web para gerenciar e implantar recursos do Azure.
+- **Funcionalidades**: Permite criar, configurar e monitorar recursos de forma intuitiva.
+- **Uso**: Ideal para usuários que preferem uma interface visual e para tarefas de gerenciamento ad-hoc¹.
+
+### **Azure PowerShell**
+
+- **O que é**: Um conjunto de módulos que fornece cmdlets para gerenciar recursos do Azure diretamente do PowerShell.
+- **Funcionalidades**: Automação de tarefas repetitivas, scripts para implantação e gerenciamento de recursos.
+- **Uso**: Ideal para administradores e desenvolvedores que precisam de automação e integração com scripts existentes¹.
+
+### **Azure CLI**
+
+- **O que é**: Uma interface de linha de comando multiplataforma para gerenciar recursos do Azure.
+- **Funcionalidades**: Comandos simples para criar, atualizar e excluir recursos.
+- **Uso**: Ideal para desenvolvedores e administradores que preferem trabalhar com linha de comando e scripts¹.
+
+### **Azure Resource Manager (ARM) Templates**
+
+- **O que é**: Arquivos JSON que definem a infraestrutura e a configuração dos recursos do Azure.
+- **Funcionalidades**: Implantação declarativa de recursos, reutilização de templates, controle de versão.
+- **Uso**: Ideal para implantações consistentes e repetíveis, especialmente em ambientes de produção³.
+
+### **Ferramentas de Infraestrutura como Código (IaC)**
+
+- **Terraform**: Ferramenta de código aberto para definir e provisionar infraestrutura através de arquivos de configuração.
+- **Ansible**: Ferramenta de automação que pode gerenciar configurações e implantar aplicativos.
+- **Bicep**: Linguagem de domínio específico (DSL) para ARM templates, simplificando a sintaxe JSON⁴.
+
+### **Azure DevOps**
+
+- **O que é**: Um conjunto de ferramentas para planejamento, desenvolvimento, entrega e monitoramento de aplicativos.
+- **Funcionalidades**: Pipelines CI/CD, repositórios Git, gerenciamento de testes.
+- **Uso**: Ideal para equipes de desenvolvimento que buscam integração contínua e entrega contínua (CI/CD)².
+
