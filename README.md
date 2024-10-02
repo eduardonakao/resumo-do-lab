@@ -280,3 +280,34 @@ O **Acesso Condicional** no Microsoft Entra ID (anteriormente Azure AD) é uma f
 - **Uso**: Facilita a categorização e a visualização dos custos associados a diferentes projetos, departamentos ou ambientes¹¹.
 - **Benefícios**: Melhora a governança e a gestão financeira ao permitir a aplicação de políticas e a geração de relatórios detalhados¹².
 
+
+
+### **Governança e Conformidade no Azure**
+
+#### **Azure Blueprints**
+
+- **O que são**: Azure Blueprints permitem que você defina um conjunto repetitivo de recursos do Azure que implementam e aderem aos padrões, políticas e requisitos da sua organização⁶.
+- **Uso**: Facilita a criação e implantação de novos ambientes de forma consistente e em conformidade com as normas organizacionais⁶.
+- **Benefícios**: Ajuda a garantir que todos os recursos implantados estejam em conformidade com as políticas de segurança e governança da empresa⁶.
+
+#### **Azure Policy**
+
+- **O que é**: Azure Policy é um serviço que permite criar, atribuir e gerenciar políticas que impõem regras e efeitos sobre os recursos do Azure¹⁷.
+- **Funcionalidades**: Avalia os recursos e ações no Azure para garantir que estejam em conformidade com as políticas definidas pela organização¹⁷.
+- **Benefícios**: Ajuda a manter a conformidade e a segurança em escala, fornecendo uma visão agregada do estado de conformidade do ambiente¹⁷.
+
+#### **Bloqueios de Recursos**
+
+- **O que são**: Bloqueios de recursos impedem a exclusão ou modificação acidental de recursos críticos no Azure¹².
+- **Tipos de Bloqueios**:
+  - **Read-Only (Somente Leitura)**: Impede modificações, mas permite leitura.
+  - **Delete (Excluir)**: Impede a exclusão do recurso¹².
+- **Uso**: Pode ser aplicado a assinaturas, grupos de recursos ou recursos individuais para proteger contra alterações acidentais¹².
+
+### **Gerenciamento de Bloqueio de Recursos**
+
+- **Como Gerenciar**:
+  - **Portal do Azure**: Navegue até o recurso, selecione "Bloqueios" e adicione um novo bloqueio especificando o tipo e as propriedades¹⁹.
+  - **CLI e PowerShell**: Também é possível gerenciar bloqueios usando comandos do Azure CLI ou PowerShell¹⁹.
+- **Benefícios**: Protege recursos críticos contra alterações não intencionais, garantindo a integridade e a disponibilidade dos serviços¹².
+
