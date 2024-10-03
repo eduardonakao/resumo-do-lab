@@ -348,3 +348,11 @@ O **Acesso Condicional** no Microsoft Entra ID (anteriormente Azure AD) é uma f
 - **Funcionalidades**: Pipelines CI/CD, repositórios Git, gerenciamento de testes.
 - **Uso**: Ideal para equipes de desenvolvimento que buscam integração contínua e entrega contínua (CI/CD)².
 
+
+
+1. **Azure Monitor**: É uma solução abrangente de monitoramento que coleta, analisa e atua sobre dados de telemetria de seus ambientes Azure e locais. Ele ajuda a maximizar o desempenho e a disponibilidade de seus aplicativos e serviços¹.
+
+2. **Assistente do Azure**: Fornece recomendações personalizadas para ajudar a otimizar seus recursos do Azure. Ele analisa a configuração e o uso dos seus recursos e sugere melhorias em áreas como segurança, desempenho, alta disponibilidade e custo².
+
+3. **Integridade do Serviço do Azure**: Monitora a integridade dos serviços do Azure e fornece alertas e informações detalhadas sobre problemas que podem afetar seus recursos. Isso inclui manutenção planejada e interrupções de serviço³.
+
